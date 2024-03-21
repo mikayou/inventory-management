@@ -1,0 +1,1 @@
+import{j as e}from"./index-402981fb.js";function s(r){return e({method:"POST",url:"/rms/purchase-order",data:r})}function a(r){return e({method:"GET",url:"/rms/purchase-order",params:r})}function d(r,u){return e({method:"PATCH",url:"/rms/purchase-order/"+r,params:u})}export{s as a,a as g,d as u};

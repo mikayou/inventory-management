@@ -1,0 +1,1 @@
+import{_ as n,o as t,c as o,l as _}from"./index-402981fb.js";const c={},s={class:"container"};function a(e,r){return t(),o("div",s,[_(e.$slots,"default",{},void 0,!0)])}const i=n(c,[["render",a],["__scopeId","data-v-a6c7d8ef"]]);export{i as B};
